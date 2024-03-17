@@ -1,3 +1,16 @@
+
+// Your name : Ashur
+
+ // Date Revised: 03/17/2024
+
+ // Exercise or Lab name: Pokemon API React Rebuild
+
+ // Brief Description of what you did: Create a single page pokemon application using the Pokemonapi and React TypeScript
+
+// Person who Peer Reviewed your assignment
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
