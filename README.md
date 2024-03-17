@@ -7,7 +7,9 @@
 
  // Brief Description of what you did: Create a single page pokemon application using the Pokemonapi and React TypeScript
 
-// Person who Peer Reviewed your assignment
+// Person who Peer Reviewed your assignment George
+
+Your code works for the most part, but you're missing the favorites and it doesn't match the figma. LIke you can add to local storage but the favorites drawer doesn't work as intended. Try to finish these things before the deadline.
 
 
 
